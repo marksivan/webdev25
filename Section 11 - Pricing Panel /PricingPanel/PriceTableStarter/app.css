@@ -1,0 +1,16 @@
+
+.pricing-table{
+    border: 2px solid red;
+    display: flex;
+
+}
+
+.pricing-plan{
+    border: 2px solid blue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+}
