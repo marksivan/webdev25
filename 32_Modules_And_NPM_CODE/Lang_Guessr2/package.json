@@ -1,0 +1,19 @@
+{
+  "name": "lang_guessr2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "collapse-white-space": "^2.1.0",
+    "franc": "^5.0.0",
+    "langs": "^2.0.0",
+    "n-gram": "^2.0.2",
+    "trigram-utils": "^2.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
